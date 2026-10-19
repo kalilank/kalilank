@@ -26,7 +26,7 @@
 <text x="0" y="76" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" xml:space="preserve"><tspan fill="#a8d65a">$ </tspan><tspan fill="#e8ecf4">whoami</tspan></text>
 </g>
 <g clip-path="url(#c1)" transform="translate(28,0)">
-<text x="0" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#c9d3e6" xml:space="preserve">kalila  |  data + ml student  |  apple enthusiast</text>
+<text x="0" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#c9d3e6" xml:space="preserve">kalila  |  data + ml student </text>
 </g>
 <g clip-path="url(#c2)" transform="translate(28,0)">
 <text x="0" y="128" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" xml:space="preserve"><tspan fill="#a8d65a">$ </tspan><tspan fill="#e8ecf4">cat now.txt</tspan></text>
