@@ -12,7 +12,7 @@
 
 ## ✦ about
 
-i like turning messy datasets into things that make sense, whether that's a music knowledge graph or the redshift of a galaxy a few billion light-years away. most of my projects live somewhere between **data engineering**, **machine learning**, and **explainable retrieval**.
+i like turning messy datasets into things that make sense, whether that's a music knowledge graph or the redshift of a galaxy a few billion light-years away. most of my projects live somewhere between **data science**, **machine learning**, and **explainable retrieval**.
 
 <br>
 
