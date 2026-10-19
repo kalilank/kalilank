@@ -59,9 +59,9 @@ i like turning messy datasets into things that make sense, whether that's a musi
 ## ☄️ say hi
 
 <!-- ganti YOUR_LINKEDIN dengan username LinkedIn kamu -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c4b5fd" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/naura-kalila-401435267/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c4b5fd" alt="LinkedIn"></a>
 <a href="https://github.com/kalilank?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="Repositories"></a>
 
 <br>
 
-<div align="center"><sub>made with 🍏 and a lot of stardust ✦</sub></div>
+<div align="center"><sub>see ya!</sub></div>
